@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Debug react project",
+      "day": "Monday",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
